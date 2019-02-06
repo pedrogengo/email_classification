@@ -1,8 +1,8 @@
 # Projeto de Paradigmas da Programação: Classificador Bayesiano em Racket
 
-Este projeto foi feito pelos alunos: 
+Este projeto foi feito pelos alunos:<br><br> 
 
-Pedro Gabriel Gengo Lourenço
-Beatrix Venturini
-Gustavo Quemel
-Yago Sorrilha
+Pedro Gabriel Gengo Lourenço<br>
+Beatrix Venturini<br>
+Gustavo Quemel<br>
+Yago Sorrilha<br>
